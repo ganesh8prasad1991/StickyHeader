@@ -11,7 +11,7 @@ import SwiftUI
 struct StickyHeaderApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ContainerView()
         }
     }
 }
